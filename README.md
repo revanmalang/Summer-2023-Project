@@ -1,4 +1,4 @@
-# Summer 2020 Project
+# Summer 2023 Project
 
 ## Tech Stack Used
 
@@ -45,7 +45,7 @@
 
 MIT License
 
-Copyright (c) 2020 Aditya Vikram Singh, Ikshita Yadav
+Copyright (c) 2023 Moch Revano
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
